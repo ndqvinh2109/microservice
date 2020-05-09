@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dccf9e64-bb08-4c6b-83cf-da328abac45a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nab/assignment/shopping/service/ProductSearchingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nab/assignment/shopping/service/ProductSearchingServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b6wrc3u19adoqmSXNW9EvqVKIL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SelfStudy\shopping" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nab.assignment.shopping.util" />
+      <recent name="com.nab.assignment.shopping.exception" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SelfStudy\shopping\src\main\resources\db\migration" />
+      <recent name="D:\SelfStudy\shopping\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShoppingApplication">
+    <configuration name="SortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nab.assignment.shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nab.assignment.shopping" />
+      <option name="MAIN_CLASS_NAME" value="com.nab.assignment.shopping.SortingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest.sortingByBranchName_ASC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nab.assignment.shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nab.assignment.shopping" />
+      <option name="MAIN_CLASS_NAME" value="com.nab.assignment.shopping.SortingTest" />
+      <option name="METHOD_NAME" value="sortingByBranchName_ASC" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest.sortingByBranchName_DESC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nab.assignment.shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nab.assignment.shopping" />
+      <option name="MAIN_CLASS_NAME" value="com.nab.assignment.shopping.SortingTest" />
+      <option name="METHOD_NAME" value="sortingByBranchName_DESC" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest.sortingByPrice_ASC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nab.assignment.shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nab.assignment.shopping" />
+      <option name="MAIN_CLASS_NAME" value="com.nab.assignment.shopping.SortingTest" />
+      <option name="METHOD_NAME" value="sortingByPrice_ASC" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest.sortingByPrice_DESC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nab.assignment.shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nab.assignment.shopping" />
+      <option name="MAIN_CLASS_NAME" value="com.nab.assignment.shopping.SortingTest" />
+      <option name="METHOD_NAME" value="sortingByPrice_DESC" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shopping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nab.assignment.shopping.ShoppingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SortingTest" />
+        <item itemvalue="JUnit.SortingTest.sortingByPrice_ASC" />
+        <item itemvalue="JUnit.SortingTest.sortingByPrice_DESC" />
+        <item itemvalue="JUnit.SortingTest.sortingByBranchName_DESC" />
+        <item itemvalue="JUnit.SortingTest.sortingByBranchName_ASC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dccf9e64-bb08-4c6b-83cf-da328abac45a" name="Default Changelist" comment="" />
+      <created>1587966050374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587966050374</updated>
+      <workItem from="1587966056095" duration="5454000" />
+      <workItem from="1587988657369" duration="5878000" />
+      <workItem from="1587997820485" duration="23963000" />
+      <workItem from="1588126818079" duration="22674000" />
+      <workItem from="1588211139701" duration="16227000" />
+      <workItem from="1588302103044" duration="15295000" />
+      <workItem from="1588407143689" duration="10210000" />
+      <workItem from="1588475000153" duration="4594000" />
+      <workItem from="1588578167279" duration="7131000" />
+      <workItem from="1588640486901" duration="1792000" />
+      <workItem from="1588663796110" duration="744000" />
+      <workItem from="1588665772604" duration="5288000" />
+      <workItem from="1588731526574" duration="22000" />
+      <workItem from="1588746071164" duration="571000" />
+      <workItem from="1588751434391" duration="1881000" />
+      <workItem from="1588841509487" duration="274000" />
+    </task>
+    <task id="LOCAL-00001" summary="read me file">
+      <created>1588475929357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588475929357</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update read me file">
+      <created>1588478968699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588478968699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit docker files">
+      <created>1588640924813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588640924813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="read me file" />
+    <MESSAGE value="update read me file" />
+    <MESSAGE value="commit docker files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit docker files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587999209573">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1587999209573" />
+    <state x="544" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1588412140507">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="765" y="210" key="#com.intellij.ide.util.MemberChooser/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588085135184" />
+    <state x="544" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1588412140507" />
+    <state x="623" y="67" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588066576541">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="67" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588066576541" />
+    <state x="690" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587992553475">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1587992553475" />
+    <state x="836" y="369" key="#xdebugger.evaluate" timestamp="1588177212318">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="836" y="369" key="#xdebugger.evaluate/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588177212318" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1588640919693">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1588640919693" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1588412365335">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588412365335" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1588480370113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588352319853" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588480370113" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1588480370113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588352319853" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588480370113" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1588480370113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588352319853" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588480370113" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1588480370113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588352319853" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588480370113" />
+    <state width="1323" height="182" key="GridCell.Tab.1.bottom" timestamp="1588480370113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.1.bottom/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588352319853" />
+    <state width="1323" height="182" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588480370113" />
+    <state width="1323" height="182" key="GridCell.Tab.1.center" timestamp="1588480370113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.1.center/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588352319853" />
+    <state width="1323" height="182" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1588480370113" />
+    <state width="1323" height="182" key="GridCell.Tab.1.left" timestamp="1588480370113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.1.left/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588352319853" />
+    <state width="1323" height="182" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1588480370113" />
+    <state width="1323" height="182" key="GridCell.Tab.1.right" timestamp="1588480370113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.1.right/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588352319853" />
+    <state width="1323" height="182" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1588480370113" />
+    <state width="1323" height="312" key="GridCell.Tab.2.bottom" timestamp="1588438853139">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.2.bottom/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588328169671" />
+    <state width="1323" height="312" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588438853139" />
+    <state width="1323" height="312" key="GridCell.Tab.2.center" timestamp="1588438853139">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.2.center/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588328169671" />
+    <state width="1323" height="312" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1588438853139" />
+    <state width="1323" height="312" key="GridCell.Tab.2.left" timestamp="1588438853139">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.2.left/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588328169671" />
+    <state width="1323" height="312" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1588438853139" />
+    <state width="1323" height="312" key="GridCell.Tab.2.right" timestamp="1588438853139">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.2.right/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588328169671" />
+    <state width="1323" height="312" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1588438853139" />
+    <state x="129" y="62" key="MergeDialog" timestamp="1588641029513">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="129" y="62" key="MergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1588641029513" />
+    <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1588641029521">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="395" y="86" key="MultipleFileMergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1588641029521" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1588438831271">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588438831271" />
+    <state x="681" y="266" width="552" height="524" key="StructurePopup" timestamp="1588085120221">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="266" width="552" height="524" key="StructurePopup/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588085120221" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1588641088779">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1588641088779" />
+    <state x="467" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1588841789069">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588302106284" />
+    <state x="467" y="246" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1588841789069" />
+    <state x="398" y="161" key="git4idea.merge.GitPullDialog" timestamp="1588641518716">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="398" y="161" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1588641518716" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1588328970970">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588328970970" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shopping$ShoppingApplication.ic" NAME="ShoppingApplication Coverage Results" MODIFIED="1588254941695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
