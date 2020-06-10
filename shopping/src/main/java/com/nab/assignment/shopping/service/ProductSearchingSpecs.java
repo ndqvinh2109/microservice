@@ -16,7 +16,7 @@ import java.util.stream.IntStream;
 public class ProductSearchingSpecs implements Searchable<Product, ProductSearchParam>, Sortable<Product, ProductSearchParam> {
 
     @Autowired
-    public Specification<Product> search(ProductSearchParam productSearchParam) {
+    public Specification<Product> search(ProductSearchParam productSearchParam) {z
 
         String[] searchByArray = productSearchParam.getSearchBy().split(",");
         String[] searchKeyArray = productSearchParam.getSearchKey().split(",");

@@ -1,6 +1,9 @@
 package com.vn.microservice.users.dto;
 
+import com.vn.microservice.users.model.ProductResponse;
+
 import java.io.Serializable;
+import java.util.List;
 
 public class UserDto implements Serializable {
 
@@ -12,6 +15,15 @@ public class UserDto implements Serializable {
     private String password;
     private String userId;
     private String encryptedPassword;
+    private List<ProductResponse> productResponseList;
+
+    public List<ProductResponse> getProductResponseList() {
+        return productResponseList;
+    }
+
+    public void setProductResponseList(List<ProductResponse> productResponseList) {
+        this.productResponseList = productResponseList;
+    }
 
     public String getFirstName() {
         return firstName;

@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dccf9e64-bb08-4c6b-83cf-da328abac45a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nab/assignment/shopping/service/ProductSearchingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nab/assignment/shopping/service/ProductSearchingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/model/ProductResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/model/UserProductSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/vn/microservice/gateway/security/WebSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/vn/microservice/gateway/security/WebSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/UsersApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/UsersApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/entity/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/entity/UsersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/rest/UserResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/rest/UserResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/java/com/vn/microservice/users/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../users/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +69,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assessment" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -211,6 +220,11 @@
       <workItem from="1588746071164" duration="571000" />
       <workItem from="1588751434391" duration="1881000" />
       <workItem from="1588841509487" duration="274000" />
+      <workItem from="1589023107243" duration="3277000" />
+      <workItem from="1589120745632" duration="2282000" />
+      <workItem from="1589169038037" duration="115000" />
+      <workItem from="1589379567659" duration="895000" />
+      <workItem from="1589449758863" duration="2416000" />
     </task>
     <task id="LOCAL-00001" summary="read me file">
       <created>1588475929357</created>
@@ -271,10 +285,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1588640919693" />
-    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1588412365335">
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1589023691887">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588412365335" />
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589023691887" />
     <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1588480370113">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -355,11 +369,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1588641088779" />
-    <state x="467" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1588841789069">
+    <state x="467" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1589169163638">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="656" y="350" key="com.intellij.ide.util.TipDialog/-1366.243.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1588302106284" />
-    <state x="467" y="246" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1588841789069" />
+    <state x="467" y="246" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1589169163638" />
     <state x="398" y="161" key="git4idea.merge.GitPullDialog" timestamp="1588641518716">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
